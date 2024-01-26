@@ -30,6 +30,3 @@ Feel free to explore the HTML pages to learn more about the Game Boy. You can na
 
 This project is licensed under the [MIT License](LICENSE.md), so feel free to use and modify the code as needed.
 
-Enjoy exploring the GameBoy-InfoHub!
-
-![Game Boy Logo](images/Nintendo_Game_Boy_Logo.png)
